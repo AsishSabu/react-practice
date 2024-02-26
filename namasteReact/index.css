@@ -1,0 +1,13 @@
+.header {
+  background-color: rgb(202, 205, 205);
+  border: solid 2px black;
+  display: flex;
+  justify-content: space-between;
+}
+.header img {
+  width: 100px;
+}
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+}
